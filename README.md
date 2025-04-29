@@ -1,4 +1,4 @@
-# 📦 NumPy Tutorial Repository
+#  NumPy Tutorial 
 
 Welcome to my **NumPy tutorial** repository!  
 This repository focuses on learning and practicing **NumPy**, a powerful Python library for numerical and scientific computing.
